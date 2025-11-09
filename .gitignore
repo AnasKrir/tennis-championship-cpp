@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.log
