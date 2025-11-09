@@ -90,7 +90,7 @@ tennis.exe
 ```
 ---
 
-## 👥 Auteurs
+## 👥 Auteur
 
 Anas KRIR — Développeur principal
 
