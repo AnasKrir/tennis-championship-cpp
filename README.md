@@ -98,7 +98,7 @@ Anas KRIR — Développeur principal
 
 ## 📄 Licence
 
-Projet sous licence MIT.
+Projet sous licence MIT.<br/>
 ✅ Libre d’utiliser, modifier et distribuer le code.
 
 © 2023 — Anas KRIR
