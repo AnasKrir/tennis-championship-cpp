@@ -92,7 +92,8 @@ tennis.exe
 
 ## 👥 Auteur
 
-Anas KRIR — Développeur principal
+Anas KRIR — Développeur
+Adam EL YOURI — Développeur
 
 ---
 
@@ -101,7 +102,7 @@ Anas KRIR — Développeur principal
 Projet sous licence MIT.<br/>
 ✅ Libre d’utiliser, modifier et distribuer le code.
 
-© 2023 — Anas KRIR
+© 2023 — Anas KRIR && Adam EL YOURI
 
 ---
 
