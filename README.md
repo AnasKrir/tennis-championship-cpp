@@ -92,7 +92,7 @@ tennis.exe
 
 ## 👥 Auteur
 
-Anas KRIR — Développeur
+Anas KRIR — Développeur <br/>
 Adam EL YOURI — Développeur
 
 ---
